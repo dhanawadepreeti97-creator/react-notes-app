@@ -6,7 +6,7 @@ A modern and responsive **Notes Management Application** built using **React.js*
 
 ## 🚀 Live Demo
 
-[🔗 Coming Soon](https://react-notes-app-yhj1.vercel.app/)
+https://react-notes-app-yhj1.vercel.app/
 
 ---
 
